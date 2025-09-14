@@ -18,3 +18,4 @@
 2025-09-10 15:26:56 - docs: add comprehensive README
 2025-09-14 13:48:56 - chore: update requirements.txt
 2025-09-14 21:35:56 - fix: resolve dependency conflicts
+2025-09-14 14:44:56 - test: add unit tests for model validation
