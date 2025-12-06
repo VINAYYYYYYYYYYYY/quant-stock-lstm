@@ -90,3 +90,4 @@
 2025-11-22 15:00:56 - feat: implement core logic
 2025-11-29 08:23:56 - feat: integrate logging and error handling
 2025-12-06 18:49:56 - refactor: optimize data loading performance
+2025-12-06 18:56:56 - docs: document API endpoints
