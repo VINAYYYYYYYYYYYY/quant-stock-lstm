@@ -1,0 +1,1 @@
+tensorflow>=2.12.0\npandas>=2.0.0\nnumpy>=1.24.0\nscikit-learn>=1.2.0\nmatplotlib>=3.7.0

@@ -1,0 +1,1 @@
+import unittest\nfrom src.main import StockPredictor\nimport numpy as np\n\nclass TestStockPredictor(unittest.TestCase):\n    def test_init(self):\n        data = np.random.rand(100, 1)\n        predictor = StockPredictor(data)\n        self.assertIsNotNone(predictor.model)\n\nif __name__ == '__main__':\n    unittest.main()
